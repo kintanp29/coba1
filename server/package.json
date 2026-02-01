@@ -1,0 +1,21 @@
+{
+  "name": "transparansi-kas-bemft-server",
+  "version": "1.0.0",
+  "description": "Backend API for kas transparency system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["kas", "transparency", "bemft"],
+  "author": "",
+  "license": "MIT"
+}

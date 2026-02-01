@@ -1,0 +1,15 @@
+
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "semangka123",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "bendahara",
+    "password": "semangka123",
+    "role": "bendahara"
+  }
+]

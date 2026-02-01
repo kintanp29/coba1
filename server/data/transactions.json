@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-15",
+    "description": "Pembayaran SPP Januari",
+    "amount": 500000,
+    "type": "income",
+    "category": "Pendapatan",
+    "created_at": "2024-01-15T10:00:00Z",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "date": "2024-01-20",
+    "description": "Pembelian ATK",
+    "amount": 150000,
+    "type": "expense",
+    "category": "Pengeluaran",
+    "created_at": "2024-01-20T14:30:00Z",
+    "updated_at": "2024-01-20T14:30:00Z"
+  },
+  {
+    "id": 3,
+    "date": "2024-02-05",
+    "description": "Donasi dari alumni",
+    "amount": 1000000,
+    "type": "income",
+    "category": "Pendapatan",
+    "created_at": "2024-02-05T09:15:00Z",
+    "updated_at": "2024-02-05T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "date": "2024-02-15",
+    "description": "Biaya cetak proposal",
+    "amount": 75000,
+    "type": "expense",
+    "category": "Pengeluaran",
+    "created_at": "2024-02-15T11:45:00Z",
+    "updated_at": "2024-02-15T11:45:00Z"
+  },
+  {
+    "id": 5,
+    "date": "2024-03-10",
+    "description": "Pembayaran rental gedung",
+    "amount": 200000,
+    "type": "expense",
+    "category": "Pengeluaran",
+    "created_at": "2024-03-10T16:20:00Z",
+    "updated_at": "2024-03-10T16:20:00Z"
+  }
+]
